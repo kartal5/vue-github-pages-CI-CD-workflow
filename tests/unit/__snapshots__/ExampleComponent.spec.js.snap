@@ -2,6 +2,6 @@
 
 exports[`ExampleComponent.vue matches the snapshot 1`] = `
 <div>
-  <p>Hello, Vue!</p>
+  <p>Hello, Vue!</p><button>Change Message</button>
 </div>
 `;
